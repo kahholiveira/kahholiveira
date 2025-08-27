@@ -8,8 +8,10 @@
 </p>
 
 <p align="center">
-💻 Desenvolvedora em formação | Apaixonada por tecnologia, dados e inovação<br>
-🎓 Estudante de Relações Internacionais & Ciência de Dados <br>
+💻 Desenvolvedora em formação | Apaixonada por tecnologia, dados,  inovação e Inteligência 
+artificial<br>
+🎓 Estudante de Relações Internacionais, Inteligência 
+artificial & Ciência de Dados <br>
 🧠 Crio soluções com propósito, análise e criatividade 💡
 </p>
 
@@ -18,10 +20,10 @@
 ### 🩷 Sobre mim
 
 - 🎓 Formada em **Gestão Pública** e cursando **Relações Internacionais** + **Ciência de Dados**  
-- 🧩 Experiência com **Python**, **Flask**, **Power BI** e **suporte técnico**
+- 🧩 Experiência com **Python**, **Flask**, **Power BI**, **Inteligência 
+artificial** e **suporte técnico**
 - 📊 Criei dashboards e soluções de dados para empresas do setor agrícola e administrativa
-- 🛠️ Interesse em **automação**, **operações administrativas** , **visão estratégica** e **Inteligência 
-artificial**
+- 🛠️ Interesse em **automação**, **operações administrativas** , **visão estratégica** e **Machine Learning**
 - 📝 Gosto de estudar com propósito e transformar conhecimento em resultados reais
 
 ---
